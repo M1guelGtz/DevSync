@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "DevSync"
+rootProject.name = "Template + Cars API"
 include(":app")
- 

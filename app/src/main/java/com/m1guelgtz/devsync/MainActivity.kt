@@ -14,6 +14,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.m1guelgtz.devsync.Demo.Core.theme.DevSyncTheme
 
 class MainActivity : ComponentActivity() {
+    @Inject
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
