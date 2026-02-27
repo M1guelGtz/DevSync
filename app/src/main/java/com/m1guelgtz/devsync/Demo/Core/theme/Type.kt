@@ -1,4 +1,4 @@
-package com.m1guelgtz.devsync.ui.theme
+package com.m1guelgtz.devsync.Demo.Core.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

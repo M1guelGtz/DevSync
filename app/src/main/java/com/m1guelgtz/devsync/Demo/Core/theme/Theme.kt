@@ -1,6 +1,5 @@
-package com.m1guelgtz.devsync.ui.theme
+package com.m1guelgtz.devsync.Demo.Core.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
