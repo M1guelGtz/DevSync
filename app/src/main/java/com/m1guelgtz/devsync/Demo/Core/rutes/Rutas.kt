@@ -1,4 +1,4 @@
-package com.m1guelgtz.devsync.Demo.Core.Routes
+package com.m1guelgtz.devsync.Demo.Core.rutes
 
 import kotlinx.serialization.Serializable
 
